@@ -13,7 +13,7 @@
 <b>Опис товару: </b>${product.description}<br>
 <b>Ціна: </b>${product.price}<br>
 <b>Місто: </b>${product.city}<br>
-<b>Автор: </b>${product.author}<br>
+<b>Автор: </b>${product.user.name}<br>
 <hr>
 <h3>Створити новий тиовар</h3>
 <form action="/product/delete/${product.id}" method="post">
