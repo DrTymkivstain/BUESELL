@@ -34,7 +34,6 @@
     Опис оголошення: <input type="text" name="description"/><br><br>
     Ціна: <input type="number" name="price"/><br><br>
     Місто: <input type="text" name="city"/><br><br>
-    Ім'я: <input type="text" name="author"/><br><br>
     Перше фото: <input type="file" name="file1"/><br><br>
     Друге фото: <input type="file" name="file2"/><br><br>
     Третє фото: <input type="file" name="file3"/><br><br>
